@@ -1,0 +1,34 @@
+.navbar {
+  background-color: #800080 !important;
+}
+
+.nav-link {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer, .navbar {
+    border: none !important;
+    font-style: italic;
+}
+
+.mt-5 {
+    margin-top: 0 !important; 
+}
+
+.social-icons a {
+    text-decoration: none;
+}
+
