@@ -5,12 +5,13 @@
 .nav-link {
     font-style: italic;
     font-size: 18px;
+    font-weight: 500;
 }
 
 .navbar-brand {
     font-style: italic;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: 600;
     margin-left: 20px;
 }
 
