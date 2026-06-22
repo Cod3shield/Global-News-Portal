@@ -13,7 +13,7 @@ var newsDataArr = [];
 
 // API
 
-const API_KEY = "84dc7d75a2d34a238593f324f9ac8aae";
+const API_KEY = "YOUR_API_KEY_HERE"; 
 
 const HEADLINES_NEWS =
     "https://newsapi.org/v2/top-headlines?country=us&apiKey=";
