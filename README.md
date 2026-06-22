@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/41912274-199a-42cf-9857-2d1b7e0ae810
 
 ### Clone Repository
 
-git clone https://github.com/your-username/dynamic-news-portal.git
+git clone https://github.com/Cod3shield/Global-News-Portal
 
 ### Open Project
 
