@@ -2,11 +2,6 @@
 
 A modern and responsive news web application that delivers the latest headlines across different categories including Sports, Technology, and Entertainment using a News API integration.
 
-## 🚀 Live Demo
-
-Demo Link:
-https://apiworldnews.netlify.app/
-
 🎥 Demo Video:
 
 https://github.com/user-attachments/assets/41912274-199a-42cf-9857-2d1b7e0ae810
@@ -133,13 +128,6 @@ git push origin feature-name
 
 5. Create a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Developer
 
